@@ -6,7 +6,7 @@
 
    header h1{
     font-family: 'Delius Unicase', cursive;
-   color:#e4ab9a;
+   color:#FFA857;
    }
 /*con esta propiedad de abajo podremos poner 
 un texto o fondo transparente*/
@@ -17,11 +17,18 @@ header .fondo-blanco{
 
 h2{
    font-family: 'Delius Unicase', cursive;
-   background: #e4ab9a;
+   background: #FFA857;
    color:#fff;
 }
+
+h1 .logo {
+  font-family: 'Delius Unicase', cursive;
+  background: #FFA857;
+  color:#fff;
+}
+
 .precio{
-  color:#e4ab9a;
+  color:#FFA857;
 }
 
 .btnRosa{
